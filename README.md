@@ -1,151 +1,200 @@
-# Hey there, I'm Rana Irtaza 👋
+# 👋 Rana Irtaza Ali Khan
 
-**Full-Stack Developer | AI/ML Enthusiast | SaaS Builder**
+**Full-Stack Engineer | AI & SaaS Builder | Next.js • React • TypeScript**
 
-I craft scalable web applications with modern tech stacks. Currently building intelligent platforms that leverage AI to solve real problems.
-
-## 🚀 What I'm Building
-
-- **SaaS-AI** – Autonomous AI-powered lead generation & intelligence platform ([Live Demo](https://saas-ai-sooty.vercel.app))
-- **PetPal** – Cross-platform mobile app for pet owners (Flutter + Dart)
-- Building production-ready, full-stack applications that solve real-world problems
-
-## 💻 Tech Stack
-
-| Category | Technologies |
-|----------|---|
-| **Frontend** | React 19, Next.js 16, TypeScript, Tailwind CSS, Vercel AI SDK |
-| **Backend** | Node.js, Express, Prisma ORM, REST APIs, Serverless |
-| **AI/ML** | LLM Integration, Prompt Engineering, AI Orchestration |
-| **Databases** | PostgreSQL, MongoDB, Redis, Upstash |
-| **Payments & Auth** | Stripe, JWT, OAuth 2.0 |
-| **DevOps & Deployment** | Docker, Vercel, GitHub Actions, AWS |
-| **Tools & Practices** | Git, ESLint, TypeScript Strict Mode, Testing |
-
-## 📊 GitHub Stats
-
-```
-7+ repositories | Quality-focused projects
-Production-ready applications with live demos
-MIT Licensed for community use
-```
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranairtaza&show_icons=true&theme=dark&hide_border=true)
-
-## 🎯 Focus Areas
-
-- ✅ End-to-end SaaS product development
-- ✅ AI-powered automations & intelligent workflows
-- ✅ Performance optimization & scalable architecture
-- ✅ Clean code principles & best practices
-- ✅ Type-safe development with TypeScript
-- ✅ Responsive, accessible UI/UX design
-
-## 📚 Featured Projects
-
-### 🚀 [Saas-AI](https://github.com/ranairtaza/Saas-AI)
-Autonomous executive operating system for predictive lead intelligence
-
-**Tech:** Next.js 16 • TypeScript • Prisma • PostgreSQL • Stripe • Inngest
-
-**Features:**
-- AI-powered lead discovery & enrichment
-- Executive dashboard & business forecasting
-- Tiered billing with Stripe integration
-- Real-time usage metering & rate limiting
-- Enterprise RBAC & audit trails
-
-**Live:** [saas-ai-sooty.vercel.app](https://saas-ai-sooty.vercel.app)
+> Building intelligent, scalable web platforms that solve real-world problems through clean code, modern architecture, and AI-driven innovation.
 
 ---
 
-### 📱 [PetPal](https://github.com/ranairtaza/petpalapp)
-Social platform for pet owners to connect and share experiences
+## 🎯 About Me
 
-**Tech:** Flutter • Dart • Firebase • Cross-platform
+I'm a full-stack engineer specializing in **SaaS product development, AI integration, and scalable web architecture**. I focus on shipping production-ready applications with excellent UX, robust backends, and intelligent automation.
 
-**Features:**
-- Pet profile management & social sharing
-- Event scheduling & community discovery
-- Real-time messaging & notifications
-- Location-based pet services
-- Mobile-first user experience
+**What drives me:**
+- 🏗️ Building end-to-end SaaS products from concept to production
+- 🤖 Integrating cutting-edge AI/ML capabilities into user-facing features
+- ⚡ Writing clean, type-safe, maintainable code
+- 📊 Designing scalable systems that grow with users
+- 👥 Creating seamless user experiences
+
+**Currently:** Building AI-powered platforms and exploring enterprise SaaS architecture.
 
 ---
 
-## 🛠️ Skills Breakdown
+## 🚀 Featured Projects
+
+### 🤖 [SaaS-AI](https://github.com/ranairtaza/Saas-AI) — Autonomous Business Intelligence Platform
+**Live Demo:** [saas-ai-sooty.vercel.app](https://saas-ai-sooty.vercel.app)
+
+AI-powered SaaS platform for lead intelligence, predictive analytics, and automated business workflows.
+
+**Stack:** Next.js 16 • React 19 • TypeScript • Prisma • PostgreSQL • Stripe • Google AI SDK • Inngest
+
+**Highlights:**
+- ✅ **AI-Powered Lead Discovery** – Automated enrichment and intelligent targeting
+- ✅ **Executive Dashboard** – Real-time business analytics and forecasting
+- ✅ **Tiered Billing** – Stripe integration with usage-based metering
+- ✅ **Event-Driven Automation** – Inngest workflows for background processing
+- ✅ **Enterprise RBAC** – Role-based access control with audit trails
+- ✅ **Rate Limiting** – Production-grade API protection with Upstash Redis
+
+**Why this project matters:**
+This is a full-stack SaaS product demonstrating modern TypeScript architecture, AI integration, payment processing, and scalable cloud deployment.
+
+---
+
+### 📱 [PetPal](https://github.com/ranairtaza/petpalapp) — Cross-Platform Pet Community App
+Social-first mobile application connecting pet owners for shared experiences and community discovery.
+
+**Stack:** Flutter • Dart • Firebase • Cross-Platform Mobile
+
+**Highlights:**
+- ✅ **Pet Profile Management** – Rich profiles with social features
+- ✅ **Community Discovery** – Event scheduling and location-based services
+- ✅ **Real-Time Messaging** – Firebase-powered notifications
+- ✅ **Mobile-First UX** – Optimized for iOS and Android
+
+**Why this project matters:**
+Demonstrates expertise in mobile development, cross-platform architecture, and user-centric design patterns.
+
+---
+
+## 💻 Technical Expertise
+
+### Frontend & UI
+![React](https://img.shields.io/badge/React%2019-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js%2016-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### AI & Automation
+![Google AI](https://img.shields.io/badge/Google%20AI%20SDK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Vercel AI](https://img.shields.io/badge/Vercel%20AI-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=white)
+
+### Payments & Auth
+![Stripe](https://img.shields.io/badge/Stripe-626EDD?style=for-the-badge&logo=stripe&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### Deployment & DevOps
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088F0?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 🛠️ What I Build
+
+| What | How | Why |
+|------|-----|-----|
+| **SaaS Products** | Next.js + Prisma + PostgreSQL | Scalable, type-safe, production-ready |
+| **AI Integration** | LLM APIs + prompt engineering | Intelligent features users love |
+| **Mobile Apps** | Flutter + Dart + Firebase | Cross-platform with native performance |
+| **APIs & Backends** | Node.js + REST + GraphQL | Robust, well-documented, tested |
+| **Databases** | PostgreSQL + Redis | Optimized for speed and reliability |
+| **DevOps** | Docker + Vercel + GitHub Actions | Automated, reliable deployments |
+
+---
+
+## 📈 Core Competencies
 
 **Full-Stack Development**
-- Architecture design from scratch
-- Database schema optimization
-- API design & implementation
-- Frontend-to-backend integration
+- End-to-end SaaS architecture
+- Database design & optimization
+- RESTful API design
+- Frontend-backend integration
+- Payment & billing systems
 
 **AI & Automation**
-- LLM integration & prompt optimization
-- AI workflow orchestration
+- LLM integration (Google AI, Vercel AI SDK)
+- Workflow orchestration (Inngest)
+- Prompt engineering
 - Predictive analytics
-- Intelligent automation
+- Event-driven processing
 
-**DevOps & Scalability**
-- Docker containerization
-- Serverless architecture
-- CI/CD pipelines (GitHub Actions)
+**Product Engineering**
+- User-centric design thinking
+- Rapid prototyping & iteration
+- Production deployment
 - Performance monitoring
+- Scalability planning
 
-**Product Development**
-- End-to-end SaaS development
-- Payment integration
-- User authentication & authorization
-- Analytics & metrics
+**Code Quality**
+- TypeScript strict mode
+- Testing & quality assurance
+- Git best practices
+- Code reviews & documentation
+- Clean architecture principles
 
-## 🌟 Recent Work Highlights
-
-- 🎯 Built and launched Saas-AI with production-grade features
-- 💳 Implemented Stripe billing system with usage-based metering
-- 🤖 Integrated advanced AI workflows with Inngest
-- 📊 Created comprehensive dashboards with real-time data
-- 🔐 Implemented enterprise RBAC and audit logging
-
-## 📈 Open to Opportunities
-
-- **Freelance Projects:** Full-stack development, SaaS architecture
-- **Collaboration:** Open to contributing to interesting projects
-- **Mentorship:** Happy to discuss web development & SaaS strategies
-- **Innovation:** Always exploring new AI/ML applications
+---
 
 ## 🎓 Learning & Growth
 
-Currently diving deep into:
-- Advanced TypeScript patterns
-- AI orchestration frameworks
-- Scalable database architecture
-- System design & microservices
+Currently exploring:
+- 📚 Advanced TypeScript & design patterns
+- 🤖 AI orchestration & multi-agent systems
+- 📊 System design & distributed architecture
+- 🏗️ Enterprise SaaS best practices
+- ⚡ Performance optimization techniques
 
-## 📫 Let's Connect
+---
+
+## 📊 GitHub Snapshot
+
+```
+┌─────────────────────────────────────┐
+│  7+ Production-Ready Projects       │
+│  Focused on Quality Over Quantity   │
+│  MIT Licensed & Open Source         │
+│  Actively Maintained & Updated      │
+└─────────────────────────────────────┘
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranairtaza&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+---
+
+## 🤝 Open Opportunities
+
+- 💼 **Full-Time Roles** – SaaS, Product Engineering, Full-Stack Development
+- 🚀 **Freelance Projects** – SaaS MVP, API development, AI integration
+- 🤝 **Collaboration** – Open-source contributions, interesting tech challenges
+- 📖 **Mentorship** – Helping developers learn SaaS & AI architecture
+
+---
+
+## 📫 Connect With Me
 
 | Platform | Link |
 |----------|------|
-| **Portfolio/Demo** | [saas-ai-sooty.vercel.app](https://saas-ai-sooty.vercel.app) |
 | **LinkedIn** | [rana-irtaza-ali-khan](https://www.linkedin.com/in/rana-irtaza-ali-khan-849859227/) |
+| **Live Demo** | [SaaS-AI Platform](https://saas-ai-sooty.vercel.app) |
 | **Email** | irtaza841@gmail.com |
 | **GitHub** | [@ranairtaza](https://github.com/ranairtaza) |
 
 ---
 
-### Useful Badges
+## 💡 Philosophy
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+I believe in:
+- **Code Quality**: Write code you'd be proud to maintain
+- **User First**: Every feature should solve a real problem
+- **Scalability**: Build systems that grow with demand
+- **Transparency**: Clear communication and well-documented code
+- **Innovation**: Constantly learning new technologies and patterns
 
 ---
 
-**Last Updated:** October 2024 | Actively Maintaining Projects ✅
+<div align="center">
+
+**Let's build something amazing together.** 🚀
+
+*"The best code is the code that solves real problems and delights users."*
+
+</div>
