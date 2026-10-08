@@ -21,6 +21,24 @@ I'm a full-stack engineer specializing in **SaaS product development, AI integra
 
 ---
 
+## 🗣️ Languages I Work With
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Primary languages:**
+- TypeScript — primary language for web and SaaS products
+- JavaScript — for frontend and scripting workflows
+- Dart — for Flutter mobile application development
+- SQL — for relational data modeling and querying
+- HTML/CSS — for UI structure and styling
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 [SaaS-AI](https://github.com/ranairtaza/Saas-AI) — Autonomous Business Intelligence Platform
